@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Nerede?</string>
+
+    <string name="hint_email">Email</string>
+    <string name="hint_pass">Şifre</string>
+    <string name="hint_name">Ad ve Soyad</string>
+    <string name="login">Giriş Yap</string>
+    <string name="register">Hesap Oluştur</string>
+    <string name="register_already">Zaten üye misin? <b>Giriş yap</b></string>
+    <string name="no_account">Henüz hesabın yok mu? <b>Kayıt ol</b></string>
+
+    <string name="type_parent">Ebeveyn</string>
+    <string name="type_child">Çocuk</string>
+
+    <string name="et_error">Bu Alan Boş Bırakılamaz.</string>
+    <string name="email_format">Zorunlu Alan(Yanlış Format)</string>
+    <string name="pass_format">Zorunlu Alan(En az 6 karakter)</string>
+    <string name="type_info"><i>Ebeveyn</i> iseniz ebeveyni olduğunuz üyenin konumunu görebilirsiniz.\n<i>Çocuk</i>
+     iseniz konum görme hakkınız yoktur ve sadece 1 hesaba aynı anda sadece bir cihazdan bağlanabilirsiniz.</string>
+    <string name="okey">Anladım</string>
+    <string name="type_title">Ebeveyn - Çocuk Farkı</string>
+    <string name="logout"><b>Çıkış Yap</b></string>
+    <string name="send_request">İstek At</string>
+    <string name="showRequest">Arkadaşlık İstekler</string>
+
+    <string name="tab_child">İlişkiler</string>
+    <string name="tab_location">Konum</string>
+    <string name="no_request">Hiç isteğiniz yok</string>
+    <string name="error">Bir hata oluştu.Daha sonra tekrar deneyiniz.</string>
+    <string name="register_ok">Kayıt Oldunuz.Şimdi Giriş Yapınız!</string>
+    <string name="no_relation">İlişkiniz Yok</string>
+    <string name="isLogin_error">Başka cihazdan giriş yapıldığı için oturum kapatılmıştır.Lütfen tekrar giriş yapınız.</string>
+</resources>

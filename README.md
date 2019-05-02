@@ -14,4 +14,8 @@ MVVM patternini öğrenirken geliştirdiğim bir uygulama
 
 **Proje hala bitmedi**
 
+### Görüntüler
+
+![Nerede](https://github.com/efdali/nerede/blob/master/screenshots/nerede-giris.png)
+![Nerede](https://github.com/efdali/nerede/blob/master/screenshots/nerede-kayit.png)
 
